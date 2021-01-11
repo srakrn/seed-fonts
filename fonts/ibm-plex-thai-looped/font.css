@@ -1,0 +1,36 @@
+/*
+ Font Name: IBM Plex Thai Looped
+ Weights: 300, 400, 500, 700
+*/
+@font-face {
+  font-family: "ibm-plex-thai-looped";
+  src: url("ibmplexthailooped-light.woff2") format("woff2"),
+    url("ibmplexthailooped-light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ibm-plex-thai-looped";
+  src: url("ibmplexthailooped-regular.woff2") format("woff2"),
+    url("ibmplexthailooped-regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ibm-plex-thai-looped";
+  src: url("ibmplexthailooped-medium.woff2") format("woff2"),
+    url("ibmplexthailooped-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "ibm-plex-thai-looped";
+  src: url("ibmplexthailooped-bold.woff2") format("woff2"),
+    url("ibmplexthailooped-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

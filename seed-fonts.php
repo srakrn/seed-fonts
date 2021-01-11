@@ -289,6 +289,10 @@ function seed_fonts_get_fonts() {
 			"font"    => "Sarabun" . $loop,
 			"weights" => array( 100, 200, 300, 400, 500, 600, 700, 800)
 		),
+		"ibm-plex-thai-looped" => array(
+			"font"    => "IBM Plex Thai Looped" . $loop,
+			"weights" => array( 300, 400, 500, 700)
+		),
 		"boon" => array(
 			"font"    => "Boon" . $loop,
 			"weights" => array( 400, 500, 600 )
